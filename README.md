@@ -34,7 +34,7 @@ Handling the missingness will be a large part of data cleaning for this dataset.
 
 ## Data Evaluation & Visualization
 
-##Tableau Dashboard: https://public.tableau.com/app/profile/yamuna.umapathy/viz/AviationProjectfinal1/Dashboard1?publish=yes
+**Tableau Dashboard:** https://public.tableau.com/app/profile/yamuna.umapathy/viz/AviationProjectfinal1/Dashboard1?publish=yes
 <p align="center">
     <img src = "<https://github.com/YamunaU75/FortuneIncProject/blob/master/Images/TableauDashboard.png">
 </p>
@@ -90,7 +90,7 @@ If we look at the data numerically below, we can see that ~12% of the Cessna 172
 **`Engine.Type` to `Total.Injuries` for Cessna `Make`**
 
 <p align="center">
-  <img src = "                               " width="990" height="663"
+  <img src = "https://github.com/YamunaU75/FortuneIncProject/blob/master/Images/TableauEngineType.png" width="990" height="663"
 </p>
 
 As we can see, the Reciprocating engine yields the least injuries for Cessna planes.
