@@ -36,7 +36,7 @@ Handling the missingness will be a large part of data cleaning for this dataset.
 
 **Tableau Dashboard:** https://public.tableau.com/app/profile/yamuna.umapathy/viz/AviationProjectfinal1/Dashboard1?publish=yes
 <p align="center">
-    <img src = "<https://github.com/YamunaU75/FortuneIncProject/blob/master/Images/TableauDashboard.png">
+    <img src = "<https://github.com/YamunaU75/FortuneIncProject/blob/master/Images/TableauDashboard.png" width = "600" height="442">
 </p>
 
 We are using event data starting 1992 because in 1982 and 1991 there were major changes in technological inovations and aviation regulations. So we want data starting 1992 and on for 'Event.Year'**.
@@ -90,7 +90,7 @@ If we look at the data numerically below, we can see that ~12% of the Cessna 172
 **`Engine.Type` to `Total.Injuries` for Cessna `Make`**
 
 <p align="center">
-  <img src = "https://github.com/YamunaU75/FortuneIncProject/blob/master/Images/TableauEngineType.png" width="990" height="663"
+  <img src = "https://github.com/YamunaU75/FortuneIncProject/blob/master/Images/TableauEngineType.png" width="825" height="461"
 </p>
 
 As we can see, the Reciprocating engine yields the least injuries for Cessna planes.
