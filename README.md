@@ -36,7 +36,7 @@ Handling the missingness will be a large part of data cleaning for this dataset.
 
 **Tableau Dashboard:** https://public.tableau.com/app/profile/yamuna.umapathy/viz/AviationProjectfinal1/Dashboard1?publish=yes
 <p align="center">
-    <img src = "<https://github.com/YamunaU75/FortuneIncProject/blob/master/Images/TableauDashboard.png" width = "600" height="442">
+    <img src = "https://github.com/YamunaU75/FortuneIncProject/blob/master/Images/TableauDashboard.png" width = "600" height="442">
 </p>
 
 We are using event data starting 1992 because in 1982 and 1991 there were major changes in technological inovations and aviation regulations. So we want data starting 1992 and on for 'Event.Year'**.
