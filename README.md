@@ -35,6 +35,9 @@ Handling the missingness will be a large part of data cleaning for this dataset.
 ## Data Evaluation & Visualization
 
 ##Tableau Dashboard: https://public.tableau.com/app/profile/yamuna.umapathy/viz/AviationProjectfinal1/Dashboard1?publish=yes
+<p align="center">
+    <img src = "<https://github.com/YamunaU75/FortuneIncProject/blob/master/Images/TableauDashboard.png" width="684" height="580">
+</p>
 
 We are using event data starting 1992 because in 1982 and 1991 there were major changes in technological inovations and aviation regulations. So we want data starting 1992 and on for 'Event.Year'**.
 
@@ -53,13 +56,13 @@ We are using event data starting 1992 because in 1982 and 1991 there were major 
 Again, we see that beyond the top 4 makes, the analysis becomes insignificant.
 
 <p align="center">
-  <img src = "https://github.com/erankova/Phase-1-Project/blob/main/Images/Perc%20Damage%20vs%20Make.png" width="1207" height="777">
+  <img src = "https://github.com/YamunaU75/FortuneIncProject/blob/master/Images/LineGraphPercAirDamage.png" width="1207" height="777">
 </p> 
 
 Finally we want to compare `Make` and `Aircraft.damage` on a percentage scale to be certain which make poses least risk to the aircraft during an accident. We can see that though it looked like Piper might have a lesser percentage of destroyed aircrafts, in fact, it is Cessna that poses least risk.
 
 <p align="center">
-  <img src = "https://github.com/erankova/Phase-1-Project/blob/main/Images/Damage%20vs%20Model%20Table.png" width="408" height="197">
+  <img src = "https://github.com/YamunaU75/FortuneIncProject/blob/master/Images/Damage%20vs%20Model%20Table.png" width="408" height="197">
 </p> 
 
 If we look at the data numerically below, we can see that ~20% of Cessna accidents destroy the aircraft while Piper, the second most used make, has ~24% of accidents resulting in a destroyed aircraft.
@@ -67,7 +70,7 @@ If we look at the data numerically below, we can see that ~20% of Cessna acciden
 **Most Used Cessna Model**
 
 <p align="center">
-  <img src = "https://github.com/erankova/Phase-1-Project/blob/main/Images/Most%20Used%20Models.png" width="666" height="525">
+  <img src = "https://github.com/YamunaU75/FortuneIncProject/blob/master/Images/DottedLineGrCessnaModels.png" width="666" height="525">
 </p>
 
 We can see that within the Cessna make, the 152 model used most often and that the difference between these models decreases after the top 4.
@@ -87,7 +90,7 @@ If we look at the data numerically below, we can see that ~12% of the Cessna 172
 **`Engine.Type` to `Total.Injuries` for Cessna `Make`**
 
 <p align="center">
-  <img src = "https://github.com/erankova/Phase-1-Project/blob/main/Images/Engine%20Type%20vs%20Injuries.png" width="990" height="663"
+  <img src = "                               " width="990" height="663"
 </p>
 
 As we can see, the Reciprocating engine yields the least injuries for Cessna planes.
